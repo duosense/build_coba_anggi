@@ -1,0 +1,6 @@
+Flask
+Flask-Cors
+Flask-MySQLdb
+python-dotenv
+google-cloud-storage
+pandas
